@@ -1,0 +1,10 @@
+Title: 		??Crash Bandicarts??
+
+Description: 	??Riots have overtaken the area.You the player must drive to safety??
+		Standing in your way is treacherous terrain with multiple obstances and
+		hostile NPCs. Collecting special items will open up new areas making 
+		escape easier.
+				
+Library Usage: 	GUI in swing
+		Other basic java libraries eg java.util
+		??others?? //any ideas//
