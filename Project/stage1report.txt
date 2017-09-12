@@ -8,3 +8,21 @@ Description: 	??Riots have overtaken the area.You the player must drive to safet
 Library Usage: 	GUI in swing
 		Other basic java libraries eg java.util
 		??others?? //any ideas//
+		
+		
+		
+The track is divided into 4 stages 
+	1. Desert
+	2. Woodland 
+	3. Mountain 
+	4. Snow 
+	
+We will only have 1 track, the level up comes when the player upgrades their vehicle. 
+		
+The player is required to upgrade their car to progess further through the game. This id done by each segment of the game being timed, the player must complete the stage of the game within a certain timeframe to pass that stage and upgrade their car etc. 
+
+We have a map of the game which I can upload as an image. 
+
+The NPC's are objects to avoid while driving and potentially other cars. 
+
+		
